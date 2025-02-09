@@ -38,4 +38,9 @@ return [
      * Sort file names
      */
     'sort_files' => false,
+
+    /**
+     * Enable searching
+     */
+    'enable_search' => true,
 ];
